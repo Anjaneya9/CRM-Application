@@ -4,7 +4,7 @@ A modern Customer Relationship Management (CRM) web application built using **Re
 
 ## 🌐 Live Preview
 
-Coming Soon
+https://cmr-application.netlify.app
 
 ## 📁 Repository
 
