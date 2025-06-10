@@ -14,8 +14,7 @@ GitHub: [Anjaneya9/CRM-Application](https://github.com/Anjaneya9/CRM-Application
 
 - 🔐 User authentication (Login)
 - 📦 Product management (View, Add, Edit, Delete)
-- 👥 Customer management (Planned)
-- 📊 Dashboard with analytics (Planned)
+- 📊 Dashboard with analytics (dummy data)
 - 🔍 Search and filtering
 - 📱 Fully responsive design
 - ⚛️ Modern React architecture
@@ -26,7 +25,7 @@ GitHub: [Anjaneya9/CRM-Application](https://github.com/Anjaneya9/CRM-Application
 - **State Management**: Redux Toolkit + RTK Query
 - **Routing**: React Router
 - **UI Icons**: Lucide React
-- **Styling**: Tailwind CSS *(if used)*
+- **Styling**: Tailwind CSS 
 
 ## 📦 Installation
 
@@ -34,7 +33,7 @@ GitHub: [Anjaneya9/CRM-Application](https://github.com/Anjaneya9/CRM-Application
 1. Clone the repository
    
    git clone https://github.com/Anjaneya9/CRM-Application.git
-   cd CRM-Applicatio
+   cd CRM-Application
 
 2. Install dependencies:
    ```
