@@ -30,16 +30,19 @@ GitHub: [Anjaneya9/CRM-Application](https://github.com/Anjaneya9/CRM-Application
 ## 📦 Installation
 
 
-1. Clone the repository
-   
+**1. Clone the repository:**
+   ```
    git clone https://github.com/Anjaneya9/CRM-Application.git
+   ```
+**2. Navigate to the project directory:**
+   ```
    cd CRM-Application
-
-2. Install dependencies:
+   ```
+**3. Install dependencies:**
    ```
    npm install
    ```
-3. Start the development server:
+**4. Start the development server:**
    ```
    npm run dev
    ```
